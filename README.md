@@ -10,7 +10,7 @@ No need to install external packages, this script only makes use of pythons stan
 
 `python3 main.py`
 
-The scripts outputs a blockchain.
+The script outputs a blockchain.
 
 ## Interpret blockchain output
 
