@@ -14,7 +14,7 @@ The scripts outputs a blockchain.
 
 Example output:
 
-````bash 
+```bash 
 $ python3 main.py
 
 Hashes:
@@ -38,8 +38,8 @@ A transaction can be interpreted as:
 
 So, block 1 contains:
 
-Transaction where B transfered `12.3` to A
-Transaction where C transfered `5.1` to D
-Transaction where A transfered `3.0` to B
-Hash of block 0: `a1be11c3d461e48f952988bafbba4a155328aaf7a6f86b59cdbf95b78cc79dff`
+1. Transaction where B transfered `12.3` to A
+2. Transaction where C transfered `5.1` to D
+3. Transaction where A transfered `3.0` to B
+4. Hash of block 0: `a1be11c3d461e48f952988bafbba4a155328aaf7a6f86b59cdbf95b78cc79dff`
 
