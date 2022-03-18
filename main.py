@@ -33,7 +33,7 @@ class Transaction:
         self.amount = amount
 
     def to_string(self) -> str:
-        return f"{self.from_client}.{self.to_client}.{self.amount}"
+        return f"{self.from_client}_{self.to_client}_{self.amount}"
 
 
 def main() -> int:
