@@ -12,6 +12,8 @@ No need to install external packages, this script only makes use of pythons stan
 
 The scripts outputs a blockchain.
 
+## Interpret blockchain output
+
 Example output:
 
 ```bash 
